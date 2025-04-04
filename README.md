@@ -23,6 +23,10 @@ Consulter les conditions météorologiques actuelles et les prévisions pour les
 
 - **Utilisations potentielles**: [Utilisations](#usageexamples)
 
+- **Roadmap**: [Notre roadmap 2025](#roadmap)
+
+- **Informations complémentaires**: [Infos](#informationsadditionnelles)
+
 ## Prérequis
 
 ```bash
@@ -60,7 +64,7 @@ Installation de l'application méteo
   cd weatherapp
 ```
 
-## Démarage
+## Démarrage
 
 Pour démarrer
 
@@ -77,7 +81,6 @@ function App() {
   return <Component />
 }
 ```
-
 
 ## Roadmap
 
