@@ -21,8 +21,6 @@ Consulter les conditions météorologiques actuelles et les prévisions pour les
 
 - **Fonctionnement de l'application**: [Lancer l'application](#fonctionnement)
 
-- **Utilisations potentielles**: [Utilisations](#usageexamples)
-
 - **Roadmap**: [Notre roadmap 2025](#roadmap)
 
 - **Informations complémentaires**: [Infos](#informations-additionnelles)
@@ -83,16 +81,6 @@ Pour tout arrêter
 
 ```bash
 npm stop weather app
-```
-    
-## Usage/Examples
-
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
 ```
 
 ## Roadmap
