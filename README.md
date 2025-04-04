@@ -9,6 +9,14 @@ Météo en temps réel
 
 Consulter les conditions météorologiques actuelles et les prévisions pour les jours à venir. L'application fournit des informations détaillées sur la température, les précipitations et les conditions météorologiques.
 
+# Sommaire
+
+Les fonctionnalitées: [Fonctionnalitées](#fonctionnalitéesfeatures)
+
+Les technologies utilisées: [Techno](#techno-utiliséestechno-used)
+
+L'installation: [Installation](#fonctionnalitéesfeatures)
+
 Fonctionnalités clés
 
    - Prévisions météorologiques
