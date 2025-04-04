@@ -35,6 +35,10 @@ npm install django
 npm install vue
 npm install fastapi
 ```
+> [!CAUTION]
+> Si des individues nommé lucas et mathieu vous
+> donnent des indications concernant les prérequis
+> N'ÉCOUTEZ PAS CES PERSONNES SUSPICIEUSES
 
 ## Fonctionnalitées/Features
 
@@ -63,7 +67,7 @@ Installation de l'application méteo
   npm install weatherapp
   cd weatherapp
 ```
-> [!Warning]
+> [!WARNING]
 > Dans le cas où vous avez des problèmes d'installations
 > veuillez consulter un contributeur au plus vite
 
@@ -99,8 +103,6 @@ function App() {
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 
 ## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
