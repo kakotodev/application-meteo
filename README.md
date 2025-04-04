@@ -128,9 +128,6 @@ npm stop weather app
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kakotodev)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=DevThomas0)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kakotodev.kakotodev)
-
-
 ## Contributing
 
 Les contributions sont toujours le bienvenue!!
