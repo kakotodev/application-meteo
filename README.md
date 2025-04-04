@@ -19,6 +19,10 @@ Consulter les conditions météorologiques actuelles et les prévisions pour les
 
 - **L'installation**: [Installation](#Installation)
 
+- **Démarrage**: [Lancer l'application](#démarrage)
+
+- **Utilisations po**: 
+
 ## Prérequis
 
 ```bash
@@ -129,11 +133,12 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## Contributing
 
-<a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=othneildrew/Best-README-Template" alt="contrib.rocks image" />
-</a>
+Les contributions sont toujours le bienvenue!!
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+contactez-nous afin de pouvoir commencer en bonne et du forme
+
+S'il vous plait adhéré au code du projet c'est la crise (svp)
+
 
 ## Authors
 
