@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.discordapp.net/attachments/1328723721124581462/1357721161634676767/meteo.png?ex=67f13bde&is=67efea5e&hm=7759bab2f7c151046e2fa6ba58cb800bd1e6e7dfb079f8394803142b4f62e262&=&format=webp&quality=lossless&width=640&height=640" alt="image"/>
+<img src="https://media.discordapp.net/attachments/1347616018482073611/1357730858580181012/La_chaine_meteo_logo.svg.png?ex=67f144e6&is=67eff366&hm=bcf9f364a355742278a77fd95995b9d400d1688057323ecf55aac49fdf9e3555&=&format=webp&quality=lossless&width=688&height=386" alt="image"/>
 </p>
 
 >
