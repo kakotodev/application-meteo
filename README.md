@@ -69,7 +69,7 @@ Installation de l'application méteo
 ```
 > [!WARNING]
 > Dans le cas où vous avez des problèmes d'installations
-> veuillez consulter un contributeur au plus vite
+> Exécuter les commandes `npm resolve issues` et `npm restart`
 
 ## Démarrage
 
