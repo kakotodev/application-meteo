@@ -63,6 +63,7 @@ Installation de l'application méteo
   npm install weatherapp
   cd weatherapp
 ```
+> [!Warning]
 
 ## Démarrage
 
