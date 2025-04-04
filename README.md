@@ -17,17 +17,29 @@ Les technologies utilisées: [Techno](#techno-utiliséestechno-used)
 
 L'installation: [Installation](#fonctionnalitéesfeatures)
 
-Fonctionnalités clés
+## Fonctionnalitées/Features
 
-   - Prévisions météorologiques
-   - Météo en temps réel
-   - Recherche de localisation
+- ⛅ Voir la météo en temps réel
+- 🏢 La météo dans votre ville
+- 👨‍🔬 Les prédictions de nos experts
+- 🌡️ Des prédictions sur 7 jours
+- 🏙️L'ajout de ville en fonction de vos choix
 
-Pourquoi utiliser cette application ?
+## Techno Utilisées/Techno Used
 
-   - Facilité d'utilisation
-   - Informations précises
-   - Personnalisation
+- **Frontend**: React.js/Vue.js
+- **Backend**: C++,Python,Django
+- **Libraries**: FastAPI,pandas,
+- **API**: [OpenWeatherMap](https://openweathermap.org/)
+
+## Installation
+
+## Informations additionnelles
+
+> [!NOTE]
+> Nos données sont principalement issues de Météo France et ne viennent pas des experts collaborant avec nous
+
+![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 
 ## Badges
 
