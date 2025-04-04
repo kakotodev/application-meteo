@@ -17,13 +17,23 @@ Les technologies utilisées: [Techno](#techno-utiliséestechno-used)
 
 L'installation: [Installation](#fonctionnalitéesfeatures)
 
+## Pre-requis
+
+```bash
+npm install react
+```
+
 ## Fonctionnalitées/Features
 
 - ⛅ Voir la météo en temps réel
 - 🏢 La météo dans votre ville
 - 👨‍🔬 Les prédictions de nos experts
 - 🌡️ Des prédictions sur 7 jours
-- 🏙️L'ajout de ville en fonction de vos choix
+- 🏙️ L'ajout de ville en fonction de vos choix
+- 🌓 Light/dark mode toggle
+- 🎥 Live previews
+- 🖵 Fullscreen mode
+- 💻 Cross platform
 
 ## Techno Utilisées/Techno Used
 
@@ -77,21 +87,6 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
-
-
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
-## Pre-requis
-
-```bash
-npm install react
-```
-
 
 ## Installation
 
