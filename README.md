@@ -28,10 +28,10 @@ Consulter les conditions météorologiques actuelles et les prévisions pour les
 ## Prérequis
 
 ```bash
-npm install react
-npm install django
-npm install vue
-npm install fastapi
+npm install react => 17.0.0
+npm install django => 5.0.3
+npm install vue => 12.1.4
+npm install fastapi <= 7.0.1
 ```
 > [!CAUTION]
 > Si des individues nommé lucas et mathieu vous
