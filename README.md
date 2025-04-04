@@ -11,13 +11,15 @@ Consulter les conditions météorologiques actuelles et les prévisions pour les
 
 # Sommaire
 
+- **Prérequis**: [Prérequis](#prérequis)
+  
 - **Les fonctionnalitées**: [Fonctionnalitées](#fonctionnalitéesfeatures)
 
 - **Les technologies utilisée**s: [Techno](#techno-utiliséestechno-used)
 
 - **L'installation**: [Installation](#Installation)
 
-## Pre-requis
+## Prérequis
 
 ```bash
 npm install react
