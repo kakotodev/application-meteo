@@ -71,12 +71,18 @@ Installation de l'application méteo
 > Dans le cas où vous avez des problèmes d'installations
 > Exécuter les commandes `npm resolve issues` et `npm restart`
 
-## Démarrage
+## Fonctionnement
 
 Pour démarrer
 
 ```bash
 npm run weatherapp
+```
+
+Pour tout arrêter
+
+```bash
+npm stop weather app
 ```
     
 ## Usage/Examples
