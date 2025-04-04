@@ -116,8 +116,8 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=kakotodev)]
-![Github Stats](https://github-readme-stats.vercel.app/api?username=DevThomas0)]
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kakotodev)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=DevThomas0)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
 
