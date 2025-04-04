@@ -21,7 +21,7 @@ Consulter les conditions météorologiques actuelles et les prévisions pour les
 
 - **Démarrage**: [Lancer l'application](#démarrage)
 
-- **Utilisations po**: 
+- **Utilisations potentielles**: [Utilisations](#usageexamples)
 
 ## Prérequis
 
