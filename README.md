@@ -129,12 +129,11 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## Contributing
 
-Contributions are always welcome!
+<a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=othneildrew/Best-README-Template" alt="contrib.rocks image" />
+</a>
 
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Authors
 
