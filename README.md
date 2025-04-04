@@ -25,7 +25,7 @@ Consulter les conditions météorologiques actuelles et les prévisions pour les
 
 - **Roadmap**: [Notre roadmap 2025](#roadmap)
 
-- **Informations complémentaires**: [Infos](#informationsadditionnelles)
+- **Informations complémentaires**: [Infos](#informations-additionnelles)
 
 ## Prérequis
 
