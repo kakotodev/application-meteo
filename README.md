@@ -19,7 +19,7 @@ Consulter les conditions météorologiques actuelles et les prévisions pour les
 
 - **L'installation**: [Installation](#Installation)
 
-- **Démarrage**: [Lancer l'application](#démarrage)
+- **Démarrage**: [Lancer l'application](#fonctionnement)
 
 - **Utilisations potentielles**: [Utilisations](#usageexamples)
 
