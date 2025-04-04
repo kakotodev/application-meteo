@@ -64,6 +64,8 @@ Installation de l'application méteo
   cd weatherapp
 ```
 > [!Warning]
+> Dans le cas où vous avez des problèmes d'installations
+> veuillez consulter un contributeur au plus vite
 
 ## Démarrage
 
