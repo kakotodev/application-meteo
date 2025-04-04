@@ -11,11 +11,11 @@ Consulter les conditions météorologiques actuelles et les prévisions pour les
 
 # Sommaire
 
-Les fonctionnalitées: [Fonctionnalitées](#fonctionnalitéesfeatures)
+- **Les fonctionnalitées**: [Fonctionnalitées](#fonctionnalitéesfeatures)
 
-Les technologies utilisées: [Techno](#techno-utiliséestechno-used)
+- **Les technologies utilisée**s: [Techno](#techno-utiliséestechno-used)
 
-L'installation: [Installation](#fonctionnalitéesfeatures)
+- **L'installation**: [Installation](#Installation)
 
 ## Pre-requis
 
