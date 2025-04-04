@@ -152,7 +152,7 @@ contactez-nous afin de pouvoir commencer en bonne et du forme
 S'il vous plait adhéré au code du projet c'est la crise (svp)
 
 <a href="https://github.com/kakotodev/application-meteo/graphs/contributors">
-  <img src="https://media.discordapp.net/attachments/1347616018482073611/1357743383707258940/kakotodev_devthomas0v2.png?ex=67f15090&is=67efff10&hm=fed9eb2e8d85a53f3b34fc508187cdf502da3e34f5ed894f01db0c12d391126e&=&format=webp&quality=lossless&width=1250&height=575" alt="contrib.rocks image" />
+  <img src="https://media.discordapp.net/attachments/1280201712531144807/1357744847871807769/kakotodev_devthomas0v4.png?ex=67f151ed&is=67f0006d&hm=bff6575da8ab8bfb654ddd047e2f219e8366411cbc93232de822e263f444ec37&=&format=webp&quality=lossless&width=544&height=250" alt="contrib.rocks image" />
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
