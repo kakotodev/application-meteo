@@ -23,6 +23,9 @@ Consulter les conditions météorologiques actuelles et les prévisions pour les
 
 ```bash
 npm install react
+npm install django
+npm install vue
+npm install fastapi
 ```
 
 ## Fonctionnalitées/Features
@@ -49,8 +52,8 @@ npm install react
 Installation de l'application méteo
 
 ```bash
-  npm install application-meteo
-  cd application-meteo
+  npm install weatherapp
+  cd weatherapp
 ```
 
 ## Démarage
@@ -58,7 +61,7 @@ Installation de l'application méteo
 Pour démarrer
 
 ```bash
-lancer
+npm run weatherapp
 ```
     
 ## Usage/Examples
