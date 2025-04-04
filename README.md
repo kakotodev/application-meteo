@@ -44,6 +44,38 @@ npm install react
 
 ## Installation
 
+Installation de l'application méteo
+
+```bash
+  npm install application-meteo
+  cd application-meteo
+```
+
+## Démarage
+
+Pour démarrer
+
+```bash
+lancer
+```
+    
+## Usage/Examples
+
+```javascript
+import Component from 'my-project'
+
+function App() {
+  return <Component />
+}
+```
+
+
+## Roadmap
+
+- Additional browser support
+
+- Add more integrations
+
 ## Informations additionnelles
 
 > [!NOTE]
@@ -87,40 +119,6 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
-
-## Installation
-
-Installation de l'application méteo
-
-```bash
-  npm install application-meteo
-  cd application-meteo
-```
-
-## Démarage
-
-Pour démarrer
-
-```bash
-lancer
-```
-    
-## Usage/Examples
-
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
-
-
-## Roadmap
-
-- Additional browser support
-
-- Add more integrations
 
 
 ## Contributing
